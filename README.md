@@ -3,7 +3,7 @@
 Five files, nothing else. Every page carries its own photos and styling baked in — no separate CSS or images file to keep track of, and no folders.
 
 - `index.html` — the home page. Shows 4 category tiles — tap one to browse it.
-- `women.html` — Women's dresses, skirts and co-ords (28 pieces)
+- `women.html` — Women's dresses, skirts and co-ords (59 pieces)
 - `men.html` — Men's jackets and coats (6 pieces)
 - `shoes.html` — Loafers and moccasins (2 pieces)
 - `home.html` — Wardrobes, cookware and home essentials (16 pieces)
